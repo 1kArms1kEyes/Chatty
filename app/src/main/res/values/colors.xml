@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_login">#E0EAD5</color>
+    <color name="background_card_login">#CBB6F1</color>
+    <color name="colorPrimary">#B02EC6</color>
+    <color name="login_background_color">#D0CB96</color>
+    <color name="linear_layout_background">#AFCA50</color>
+    <color name="linear_layout_background_message">#8CCAD1</color>
+    <color name="button_background_color">#031680</color>
+</resources>
